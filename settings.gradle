@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "GitHub Project"
+rootProject.name = "GitHubProject"
