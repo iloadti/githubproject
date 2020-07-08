@@ -20,7 +20,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.iloadti.testegithub.presentation.main.MainActivity"
+        <activity android:name="com.iloadti.testegithub.presentation.MainActivity"
             android:screenOrientation="portrait"/>
     </application>
 
